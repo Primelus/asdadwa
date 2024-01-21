@@ -1,7 +1,7 @@
 [
   {
     "name": "Request a Game",
-    "image": "media/request.png",
+    "image": "request.png",
     "url": "/other/form"
   },
   {
