@@ -1245,6 +1245,12 @@
     "url": "ruffle",
     "new": false
   },
+    {
+    "name": "Slap The Monkey",
+    "image": "slap-the-monkey.png",
+    "url": "slap-the-monkey",
+    "new": false
+  },
   {
     "name": "Sand Game",
     "image": "sand-game.PNG",
