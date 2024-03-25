@@ -1,2 +1,10 @@
-# The Docker image that will be used to build your app
-image: node:lts
+image: alpine:latest
+pages:
+  stage: deploy
+  script:
+  - echo 'Nothing to do...'
+  artifacts:
+    paths:
+    - /
+  only:
+  - main
